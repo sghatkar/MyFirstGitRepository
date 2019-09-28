@@ -1,1 +1,1 @@
-# MyFirstGitRepository
+# MyFirstGitRepository - Sandesh Ghatkar
